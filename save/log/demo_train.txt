@@ -1,0 +1,304 @@
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
+GPU: 0
+Loading path...
+Save name: demo
+Save best test: False
+Save later: False
+Loading dataset...
+Group length: 1
+DataSet: PACS
+Source domain: ['art_painting', 'cartoon', 'photo']
+Target domain: ['sketch']
+Known classes: ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house']
+Unknown classes: ['person']
+Batch size: 8
+CrossVal: True
+Loading models...
